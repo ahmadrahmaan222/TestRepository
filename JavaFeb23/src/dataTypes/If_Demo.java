@@ -12,7 +12,7 @@ public class If_Demo {
 		 * }
 		 * 
 		 */
-		
+		 ///this an example of control statement
 		int age = 16; 
 		System.out.println("Testing if Condition starts:");
 		
